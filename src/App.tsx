@@ -41,14 +41,14 @@ function App() {
 
             {/* Contact Info */}
             <div className="flex flex-wrap gap-6 animate-fade-in-up delay-700">
-              <a href="mailto:ahmed.eldaly@example.com" 
+              <a href="mailto:ahm3deldlay2@gmail.com" 
                  className="flex items-center gap-3 text-gray-300 hover:text-white transition-all duration-300 hover:scale-105 group">
                 <div className="p-2 bg-gray-800/50 rounded-lg group-hover:bg-blue-500/20 transition-colors">
                   <Mail size={20} />
                 </div>
                 <span>ahm3deldlay2@gmail.com</span>
               </a>
-              <a href="tel:+1234567890" 
+              <a href="tel:+201017803491" 
                  className="flex items-center gap-3 text-gray-300 hover:text-white transition-all duration-300 hover:scale-105 group">
                 <div className="p-2 bg-gray-800/50 rounded-lg group-hover:bg-green-500/20 transition-colors">
                   <Phone size={20} />
