@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Linkedin, Mail, Phone, MapPin, ExternalLink, Code, Database, Globe, Server, ArrowRight, Star } from 'lucide-react';
 
 function App() {
@@ -99,7 +98,7 @@ function App() {
               {/* Image container */}
               <div className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white/10 backdrop-blur-sm group-hover:scale-105 transition-all duration-500">
                 <img 
-                  src="/src/assets/file_00000000f2e4620aabbb3a0e0dee9e32.png" 
+                  src="/ahmed.png" 
                   alt="Ahmed Eldaly" 
                   className="w-full h-full object-cover object-top grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-110"
                 />
